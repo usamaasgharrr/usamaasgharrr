@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=usamaasgharrr&label=Profile%20views&color=0e75b6&style=flat" alt="usamaasgharr" /> </p>
 
-- 🌱 I’m currently learning **Mern Stack.**
+🌱 I’m a Full Stack Web Developer, primarily specializing in the MERN Stack, with experience in WordPress plugin development and creating custom Gutenberg blocks.
 
 - 💻 Love Solving algorithmic problems on LeetCode to sharpen problem-solving skills
 
