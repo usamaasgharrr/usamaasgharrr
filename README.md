@@ -6,6 +6,10 @@
 
 - 🌱 I’m currently learning **Mern Stack.**
 
+- 💻 Love Solving algorithmic problems on LeetCode to sharpen problem-solving skills
+
+- 🔒 Experimenting with REST APIs, JWT authentication, and real-time apps using WebSockets and more..
+
 - 💬 Ask me about **MERN and Databases**
 
 - 📫 How to reach me **usama.asghar005@gmail.com**
